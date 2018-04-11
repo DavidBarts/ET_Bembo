@@ -11,4 +11,8 @@ You will notice there is no ff ligature (just fi, ffi, fl, and ffl). That's
 the way the font came, and I didn't add one. It doesn't seem to need one
 that badly; two adjacent f's dont run into each other like fi and fl did.
 
-Tufte's original fonts are .ttf files; mine are .otf files.
+Tufte's original fonts are .ttf files; mine are .otf files. This should
+not matter much; nearly every system supports OTF's.
+
+The .sfd files are the Fontforge projects for each font. If you don't care
+about editing fonts with Fontforge, you can just ignore them.
